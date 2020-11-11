@@ -1,1 +1,1 @@
-# recriando-a-p-gina-inicial-do-instagram
+Página de login do Instagram: nesse projeto, foi abordado o conceito sobre CSS Flexbox e responsividade.
